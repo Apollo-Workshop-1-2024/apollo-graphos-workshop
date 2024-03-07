@@ -33,7 +33,8 @@ subscription:
 preview_persisted_queries:
   enabled: true
   safelist:
-    enabled: true
-    required_id: false
+    enabled: false
+    # enabled: true
+    # required_id: false
   apq:
     enabled: false
